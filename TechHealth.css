@@ -1,6 +1,6 @@
 .u-section-8 {
   background-color: #80a9b7;
-  
+
 }
 
 .u-section-8 .u-sheet-1 {
@@ -179,7 +179,9 @@
   .u-section-8 .u-repeater-1 {
     grid-auto-columns: 100%;
   }
-} .u-section-9 {
+}
+
+.u-section-9 {
   min-height: 570px;
   background-color: aliceblue;
 }
@@ -577,7 +579,9 @@
   .u-section-10 .u-icon-5 {
     margin-right: 150px;
   }
-}.u-section-11 .u-sheet-1 {
+}
+
+.u-section-11 .u-sheet-1 {
   min-height: 146px;
 }
 
