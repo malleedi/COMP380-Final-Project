@@ -1043,3 +1043,126 @@
      margin-left: 0;
    }
  }
+
+
+ .u-section-7 {
+  background: transparent;
+ }
+
+ .u-section-7 .u-sheet-1 {
+  min-height: 508px;
+}
+
+.u-section-7 .u-group-1 {
+  min-height: 204px;
+  height: auto;
+  margin-top: 38px;
+  margin-bottom: 0;
+}
+
+.u-section-7 .u-container-layout-1 {
+  padding: 0;
+}
+
+.u-section-7 .u-text-1 {
+  text-transform: uppercase;
+  font-weight: 600;
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 300px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  margin: 12px 185px 0 20px;
+}
+
+.u-section-7 .u-text-2 {
+  font-weight: bold;
+  font-size: 3.75rem;
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 300px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  margin: 12px 0 0 20px;
+}
+
+.u-section-7 .u-text-3 {
+  --animation-custom_in-translate_x: -200px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  font-weight: 400;
+  margin: 16px 0 0 20px;
+}
+
+.u-section-7 .u-form-1 {
+  height: 214px;
+  background-image: none;
+  width: 570px;
+  margin: 19px auto 33px;
+}
+
+
+@media (max-width: 1199px) {
+  .u-section-7 .u-group-1 {
+    height: auto;
+  }
+
+  .u-section-7 .u-container-layout-1 {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+
+  .u-section-7 .u-text-1 {
+    margin-right: 5px;
+    margin-left: 0;
+  }
+
+  .u-section-7 .u-text-2 {
+    position: relative;
+    font-weight: 700;
+    margin-left: 0;
+  }
+
+  .u-section-7 .u-text-3 {
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-7 .u-container-layout-1 {
+    padding-left: 13px;
+    padding-right: 13px;
+  }
+
+  .u-section-7 .u-text-1 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-7 .u-container-layout-1 {
+    padding-left: 9px;
+    padding-right: 9px;
+  }
+
+  .u-section-7 .u-form-1 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-7 .u-container-layout-1 {
+    padding-left: 6px;
+    padding-right: 6px;
+  }
+
+  .u-section-7 .u-text-2 {
+    font-size: 3rem;
+  }
+
+  .u-section7 .u-form-1 {
+    width: 340px;
+  }
+}
